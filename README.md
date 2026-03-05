@@ -2,7 +2,8 @@
 
 Superstore Analytics Report
 
-Project Title: Multi-Dimensional Retail Analytics Engine (Tableau)
+Project Title: Multi-Dimensional Retail Analytics Report (Tableau)
+
 Technical Stack: Tableau Desktop, Advanced Parameter Actions, Custom Calculated Fields.
 
 Key Technical Features:
